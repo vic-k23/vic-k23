@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vic-k23
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning at Geekbrains.ru on Data Science faculty
+- 🌱 I’m currently learning at Geekbrains
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/Buburum
 
