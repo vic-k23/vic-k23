@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vic-k23
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning aiogram, FastAPI, SQLAlchemy, spaCy, VueJS, SolidJS
+- 🌱 I’m currently learning FastAPI, SQLAlchemy, spaCy, VueJS, SolidJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/Buburum
 
